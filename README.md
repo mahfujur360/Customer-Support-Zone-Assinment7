@@ -18,3 +18,5 @@ If you are developing a production application, we recommend using TypeScript wi
 What is JSX, and why is it used?
 
 What is the difference between State and Props?
+
+What is the useState hook, and how does it work?
