@@ -1,0 +1,14 @@
+.banner1 {
+  background-image: url("/src/assets/vector1.png"),
+    url("/src/assets/vector2.png"), linear-gradient(to right, #632ee3, #9f62f2);
+  background-position: left center, right center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.banner2 {
+  background-image: url("/src/assets/vector2.png"),
+    url("/src/assets/vector1.png"), linear-gradient(to right, #54cf68, #00827a);
+  background-position: right center, left center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
