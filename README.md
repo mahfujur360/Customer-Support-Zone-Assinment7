@@ -35,4 +35,4 @@ How is event handling done in React?
 
 React handles events like clicks or typing using functions.
 
-<button onClick={handleClick}>Click me</button>
+ "<button onClick={handleClick}>Click me</button>"
